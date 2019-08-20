@@ -24,3 +24,4 @@
 /dist/K
 /nbdist/
 /.nb-gradle/
+/out/production/image-processing/META-INF/image-processing.kotlin_module
